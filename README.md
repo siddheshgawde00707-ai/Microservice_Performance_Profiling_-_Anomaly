@@ -1,6 +1,9 @@
 # Microservice_Performance_Profiling_-_Anomaly
 Analyzed microservice performance metrics using Python and K-Means clustering to identify performance patterns and potential anomalies. Applied data preprocessing, feature scaling, and clustering evaluation to group services based on CPU usage, latency, response time, error rate, and availability.
 
+<img width="541" height="314" alt="Screenshot 2026-10-09 153707" src="https://github.com/user-attachments/assets/484c7eb2-3beb-4490-8734-0e0349fb6941" />
+
+
 1. Data Loading: Imported microservice performance data using Pandas for analysis.
 
 2. Data Cleaning: Checked for missing values and removed duplicate records to improve data quality.
